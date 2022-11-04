@@ -1,3 +1,3 @@
 # nivel-5-1
-- um jogo de adivinhação bem mais trabalhado
+- um cronometro estilo pomodoro
 -utilizando html css e JavaScript
